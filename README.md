@@ -4,4 +4,4 @@
 * Join Our Facebook Group:https://facebook.com/groups/spamming.termux.learning.point/
 * Tnx all
 
-<img src="Screenshot_20211227-223734.png" width="250" height="200"></img>
+<img src="Screenshot_20211227-223734.png" width="140" height="300"></img>
